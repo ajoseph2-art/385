@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Example website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: ae01-unvotes.qmd
+        text: AE01
+        
+format:
+  html:
+    theme:
+      - quartz
+    css: styles.css
+    toc: true
+
+editor: visual
+
