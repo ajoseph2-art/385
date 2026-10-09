@@ -3,15 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Example website"
+  title: "My website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: ae01-unvotes.qmd
-        text: AE01
+      - text: "Assignments"
+        menu:
+          - ae01-unvotes.qmd
         
 format:
   html:

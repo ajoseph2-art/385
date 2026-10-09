@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "385 website",
-    "section": "",
-    "text": "You can use a site like for presenting information about a project"
-  },
-  {
     "objectID": "ae01-unvotes.html",
     "href": "ae01-unvotes.html",
     "title": "United Nations Votes",
@@ -40,6 +33,13 @@
     "title": "United Nations Votes",
     "section": "References",
     "text": "References\n\nDavid Robinson (2017). unvotes: United Nations General Assembly Voting Data. R package version 0.2.0.\nErik Voeten “Data and Analyses of Voting in the UN General Assembly” Routledge Handbook of International Organization, edited by Bob Reinalda (published May 27, 2013).\nMuch of the analysis has been modeled on the examples presented in the unvotes package vignette."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "385 website",
+    "section": "",
+    "text": "You can use a site like for presenting information about a project"
   },
   {
     "objectID": "about.html",
